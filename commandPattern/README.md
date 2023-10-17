@@ -12,5 +12,6 @@ Ensure that the remote control can send these commands to any device without kno
 
 Your challenge is to apply a design pattern that allows this remote control to be flexible and extensible, enabling it to control various devices effortlessly. This should be achieved without the remote control having to understand the specific details of how each device operates.
 
-## Class Diagram
-![image](https://github.com/JerryEsperanza/commandpattern/assets/142370600/803de011-db55-482b-8008-b0cf8c07bd1e)
+## Updated Class Diagram
+
+![CommandPattern](https://github.com/charlesEgonzaga/commandpattern/assets/142955651/0dff2b87-3a88-4e56-9946-b7973eb824b1)
