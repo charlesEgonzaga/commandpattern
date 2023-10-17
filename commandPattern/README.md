@@ -14,4 +14,4 @@ Your challenge is to apply a design pattern that allows this remote control to b
 
 ## Updated Class Diagram
 
-![CommandPattern](https://github.com/charlesEgonzaga/commandpattern/assets/142955651/0dff2b87-3a88-4e56-9946-b7973eb824b1)
+![CommandPattern(Updated)](https://github.com/charlesEgonzaga/commandpattern/assets/142955651/965f16a7-c8bb-46ad-b0d5-6d41b173f6b3)
